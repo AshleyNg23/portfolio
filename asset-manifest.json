@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4a12177c.css",
-    "main.js": "/portfolio/static/js/main.db40e5a3.js",
+    "main.js": "/portfolio/static/js/main.e4fbb3ff.js",
     "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
     "static/media/nomorewhatifs.png": "/portfolio/static/media/nomorewhatifs.365e1ed15b3839368afd.png",
     "static/media/profileImg.png": "/portfolio/static/media/profileImg.db4fd964305008fccb12.png",
@@ -9,15 +9,16 @@
     "static/media/header.png": "/portfolio/static/media/header.75e7550553e275bdfd7d.png",
     "static/media/aliceTears.png": "/portfolio/static/media/aliceTears.b8e8d5b537822a32f2e2.png",
     "static/media/ashley_nguyen_part1deliverable_instagram.png": "/portfolio/static/media/ashley_nguyen_part1deliverable_instagram.2d95f739aac977dbb79b.png",
+    "static/media/hacknights_api_ash.png": "/portfolio/static/media/hacknights_api_ash.649a9164a76040fdd68c.png",
     "static/media/WICS Study Night.png": "/portfolio/static/media/WICS Study Night.0229c85500965e405506.png",
     "static/media/aif2023_ig_ash.png": "/portfolio/static/media/aif2023_ig_ash.d7b37e532ecb88c5e6bd.png",
     "static/media/playground thumb.png": "/portfolio/static/media/playground thumb.cd28979a9275ef6922fd.png",
-    "static/media/infosession_ig_ash.png": "/portfolio/static/media/infosession_ig_ash.7265836012a5b8eb8e55.png",
     "static/media/IrisHacks Instagram.png": "/portfolio/static/media/IrisHacks Instagram.54ef86500daefa97996b.png",
     "static/media/WICS X Design Figma.png": "/portfolio/static/media/WICS X Design Figma.819fef54d969cbc720d8.png",
     "static/media/Coco-Sharp-Extrabold-trial.ttf": "/portfolio/static/media/Coco-Sharp-Extrabold-trial.247762e1c85e6abebb1f.ttf",
     "static/media/Coco-Sharp-Bold-trial.ttf": "/portfolio/static/media/Coco-Sharp-Bold-trial.25d15e36a3de183bf02e.ttf",
     "static/media/icsfair_ig_ash.png": "/portfolio/static/media/icsfair_ig_ash.3116f664e6c1cbfd0c54.png",
+    "static/media/wtp_winter_logo.png": "/portfolio/static/media/wtp_winter_logo.a63a9c6fa2756bf9620b.png",
     "static/media/footer.png": "/portfolio/static/media/footer.8a139cccd9a3ec35c2b0.png",
     "static/media/ASH logo transparent black.png": "/portfolio/static/media/ASH logo transparent black.66cfd480af321603f648.png",
     "static/media/WICS X CYBER@UCI.png": "/portfolio/static/media/WICS X CYBER@UCI.e0eba5474c67e107058f.png",
@@ -27,21 +28,22 @@
     "static/media/persona5opening.jpg": "/portfolio/static/media/persona5opening.5f4c20e7166189331db2.jpg",
     "static/media/bokeh.png": "/portfolio/static/media/bokeh.0a78b72db5243c28bcaf.png",
     "static/media/ZotHacks.png": "/portfolio/static/media/ZotHacks.62cb0385932ecb3bb5e0.png",
-    "static/media/Ashley_Nguyen_resume.pdf": "/portfolio/static/media/Ashley_Nguyen_resume.4224b12be92139ba0581.pdf",
+    "static/media/Ashley_Nguyen_resume.pdf": "/portfolio/static/media/Ashley_Nguyen_resume.ae0b82a7d47a26ad9363.pdf",
     "static/media/hsdSelect.png": "/portfolio/static/media/hsdSelect.a8e843327f89b0496574.png",
     "static/media/programming.png": "/portfolio/static/media/programming.cfb46917ef6130fb5cce.png",
     "static/media/ASHWebsite.png": "/portfolio/static/media/ASHWebsite.32ccfae1790cfcd23702.png",
     "static/media/hack-at-uci-logo_white.png": "/portfolio/static/media/hack-at-uci-logo_white.feaf840a2f1c1564e960.png",
+    "static/media/ucioit.jpg": "/portfolio/static/media/ucioit.234d58e1c7614bc99894.jpg",
     "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/portfolio/index.html",
     "main.4a12177c.css.map": "/portfolio/static/css/main.4a12177c.css.map",
-    "main.db40e5a3.js.map": "/portfolio/static/js/main.db40e5a3.js.map",
+    "main.e4fbb3ff.js.map": "/portfolio/static/js/main.e4fbb3ff.js.map",
     "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a12177c.css",
-    "static/js/main.db40e5a3.js"
+    "static/js/main.e4fbb3ff.js"
   ]
 }
