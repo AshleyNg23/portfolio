@@ -13,10 +13,10 @@ export const About = () => {
                     <div className="about-box">
                         <span className="tagline"> About Me! </span>
                         <p> Hello!! I'm a software engineer exploring
-                            UI/UX Design, Software Development, and Project Management as future venues in my career!
+                            Software Development, and Project Management as future venues in my career!
                             I started with making videos on my free time where I would design my own thumbnails, (using paint!!!)
                             and from there I started graphic designing!
-                            Right now, my sights are set on a Summer Internship in Software Engineering or Project Management!
+                            Right now im preparing for my summer internship!
                         </p>
                     </div>
                     </Col>

@@ -4,6 +4,8 @@ import { Row, Col, Container } from "react-bootstrap";
 import ashLogo from "../assets/img/ASH logo transparent black.png";
 import hackLogo from "../assets/img/hack-at-uci-logo_white.png";
 import wicsLogo from "../assets/img/WICS logo (white).png";
+import ucioit from "../assets/img/ucioit.jpg";
+import wtplogo from "../assets/img/wtp_winter_logo.png";
 
 
 export const Experience = () => {
@@ -38,6 +40,16 @@ export const Experience = () => {
                             </h2>
                             <p>Check out various organizations and clubs that I've been involved in and my position. Hopefully I'll have many more to come!</p>
                             <Carousel responsive={responsive} infinite={true} className="exp-slider">
+                                <div className="item">
+                                    <img src={ucioit} alt="HackUCI" />
+                                    <h5>UC Irvine OIT</h5>
+                                    <h6>Student Web Developer</h6>
+                                </div>
+                                <div className="item">
+                                    <img src={wtplogo} alt="HackUCI" />
+                                    <h5>We the Pixies</h5>
+                                    <h6>Web Developer</h6>
+                                </div>
                                 <div className="item">
                                     <img src={hackLogo} alt="HackUCI" />
                                     <h5>Hack at UCI</h5>

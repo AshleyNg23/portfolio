@@ -7,7 +7,6 @@ import designIcon from '../assets/img/UIDesign.png';
 import brandIcon from '../assets/img/BrandIdentity.png';
 import webIcon from '../assets/img/web dev.png';
 import projIcon from '../assets/img/projectmanage.png';
-import skillBg from '../assets/img/bokeh.png';
 
 export const Skills = () => {
     const responsive = {

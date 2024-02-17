@@ -7,7 +7,7 @@ import projImg2 from "../assets/img/ASHWebsite.png";
 import projImg3 from "../assets/img/hsdSelect.png";
 import desImg1 from "../assets/img/designs/WICS X Design Figma.png";
 import desImg2 from "../assets/img/designs/IrisHacks Instagram.png";
-import desImg3 from "../assets/img/designs/infosession_ig_ash.png";
+import desImg3 from "../assets/img/designs/hacknights_api_ash.png";
 import desImg4 from "../assets/img/designs/ashley_nguyen_part1deliverable_instagram.png";
 import desImg5 from "../assets/img/designs/icsfair_ig_ash.png";
 import desImg6 from "../assets/img/designs/aif2023_ig_ash.png";
